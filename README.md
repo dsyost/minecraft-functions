@@ -1,0 +1,2 @@
+<h1>Minecraft Functions</h1>
+<p>This is a repository of minecraft functions I've written for fun.  I've tried to document them well but if you have any questions or comments I can be reached at minecraft@dsyost.elementfx.com</p>
