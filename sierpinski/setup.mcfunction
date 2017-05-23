@@ -1,6 +1,6 @@
 #kills and summons armor stands
 kill @e[tag=cursor]
-summon armor_stand ~5 ~ ~ {Tags:["cursor"],NoGravity:1b,Invisible:1}
+summon armor_stand ~ ~ ~ {Tags:["cursor"],NoGravity:1b,Invisible:1}
 
 #setup for scoreboard
 scoreboard objectives add x1 dummy
